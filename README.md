@@ -9,4 +9,4 @@ Temas que se Desconocen:
 -   pruebas unitarias
 
 Se anexa URL con proyecto completo debido a que no se pudo anexar completo en GitHub.
-https://www.mediafire.com/file/d6gpnzhkvtupks2/BovinosTest.rar/file
+https://www.mediafire.com/file/d6gpnzhkvtupks2/BovinosTest.rar
